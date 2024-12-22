@@ -10,7 +10,7 @@ Publications
 ======
 1. **Yang, Guang**, Jie Li, Hanxiao Lei, and Xinbo Gao. "A multi-scale information integration framework for infrared and visible image fusion." Neurocomputing 600 (2024): 128116. [Paper](https://www.sciencedirect.com/science/article/pii/S0925231224008877). [Code](https://github.com/SSyangguang/MDA).
 2. **Yang, Guang**, Jie Li, and Xinbo Gao. "A dual domain multi-exposure image fusion network based on spatial-frequency integration." Neurocomputing 598 (2024): 128146. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231224009172). [Code](https://github.com/SSyangguang/MEF-freq).
-3. **Yang, Guang**, Jie Li, Xin Liu, Zhusi Zhong, and Xinbo Gao. "Infrared and Visible Image Fusion with Hierarchical Human Perception." in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2025. [Paper](https://arxiv.org/abs/2409.09291)
+3. **Yang, Guang**, Jie Li, Xin Liu, Zhusi Zhong, and Xinbo Gao. "Infrared and Visible Image Fusion with Hierarchical Human Perception." in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2025. [Paper](https://arxiv.org/abs/2409.09291).[Code](https://github.com/SSyangguang/HPFusion).
 
 
 📫 How to reach me:
